@@ -1,2 +1,2 @@
-# actividades_programacion_analitica
-Este repositorio tiene todos los ejercicios de práctica para programación en Python.
+# Actividades_programacion_analitica
+🚀 Ejercicios de Práctica en Python: Programación Analítica --> Espacio dedicado al desarrollo del pensamiento lógico mediante la resolución de problemas en Python. Cada script en este repositorio está diseñado para transformar la teoría en soluciones de código eficientes y limpias. Incluye la resolución detallada de bucles infinitos, manejo de condicionales invertidos y optimización de estructuras interactivas. ¡Perfecto para fortalecer las habilidades técnicas requeridas en entornos analíticos!
